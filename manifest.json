@@ -1,6 +1,6 @@
 {
-  "name": "나의 하루",
-  "short_name": "나의 하루",
+  "name": "채움",
+  "short_name": "채움",
   "description": "감정일기, 냉장고 재고, 식단플래너",
   "start_url": "./index.html",
   "display": "standalone",
